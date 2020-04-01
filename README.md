@@ -1,2 +1,2 @@
 # MFA-PoSh
-MFA related PowerShell samples
+MFA related PowerShell samples by PoSh Chap
