@@ -1,2 +1,2 @@
 # Azure-MFA-PoSh
-Azure MFA related PowerShell samples by PoSh Chap
+Azure MFA and SSPR related PowerShell samples by PoSh Chap
